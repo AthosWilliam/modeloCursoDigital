@@ -1,5 +1,5 @@
 
-<h1 align="center" style="font-size: 25px">Modelo Front-End Curso Digital</h1>
+<h1 align="center" style="font-size: 25px">Projeto Front-End Curso Digital</h1>
 
 <h2 style="font-size: 25px">👨🏽‍💻  About: </h2>
 <p>✅ A basic responsive front-end website, demonstrating an objective and practical layout that meets the conversion needs of the product in question;</p>
